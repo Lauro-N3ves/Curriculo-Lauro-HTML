@@ -1,3 +1,39 @@
 body{
     font-family: sans-serif;
+    background-color:black ;
+    color: white;
+    font-weight:normal;
+    .nome{
+        background-color: #717171;
+        text-align: center;
+        border-bottom: 2px solid white ;
+        width: 70%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 0px;
+        margin-top: 30px;
+        padding:5px;
+    }
+    .info{
+        text-align: center;
+        margin-top: 10px;
+        margin-bottom: 40px;
+    }
+    .topicos{
+        background-color: #6e6b6b57;
+        width: 90%;
+        padding: 9px;
+        margin-left: auto;
+        margin-right: auto;
+        font-size:23px;
+        font-weight: normal;
+        border-bottom: 2px solid #a00101;
+    }
+    .description{
+        font-size: 18px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 90%;
+        padding: 9px 9px 9px 11px;
+    }
 }
